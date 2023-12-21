@@ -1,0 +1,1 @@
+{"config":{"indexing":"full","lang":["en"],"min_search_length":3,"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":"This is a test project for the mkdocs testing How does it work gcyrestuhiou","title":"Home"},{"location":"about/","text":"This is another file to test the mkdocs anf to test how the multiple docs are being added","title":"About"}]}
