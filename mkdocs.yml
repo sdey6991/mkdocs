@@ -1,0 +1,8 @@
+nav:
+  - Home: 'index.md'
+  - About: 'about.md'
+
+
+site_name: MkDocs Poc
+
+site_url: https://mkdocs-poc.com/
